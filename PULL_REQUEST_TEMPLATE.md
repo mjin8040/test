@@ -2,7 +2,7 @@
 ## PR Raisers Check List
 ---------------------------
 #### Mandatory
-[] JIRA ticket is linked
+[ ] JIRA ticket is linked
 [] All the ACs in JIRA verified
 [] Pointed to correct merge branch
 [] Add required lables to PR
