@@ -31,9 +31,9 @@
 
 ## PR Reviewer's Check List - Copy and paste when approve
 -------------------------------------------------------
-- [ ] Mandatory checklist is complete
-- [ ] Build and test in at least one device type
-- [ ] Verify that ALL the ACs are completed
-- [ ] Dependent PRs are reviewed and merged
-- [ ] Jira Ticket is `InReview` Status
-- [ ] If PR has large number of commits ask to squash the commits
+- [] Mandatory checklist is complete
+- [] Build and test in at least one device type
+- [] Verify that ALL the ACs are completed
+- [] Dependent PRs are reviewed and merged
+- [] Jira Ticket is `InReview` Status
+- [] If PR has large number of commits ask to squash the commits
